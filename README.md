@@ -1,2 +1,0 @@
-# Animation
-Imagery in GDS
